@@ -1,4 +1,4 @@
-# JavaMiniProjects목록
+# JavaMiniProjects목록(순서 다름)
 1.계산기
 2.스네이크 꼬리먹기 게임
 3. 여자연예인 월드컵 게임
